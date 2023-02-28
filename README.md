@@ -1,6 +1,5 @@
 # RPG-Game.py
 Max Balya Game Link
-
 #Joe
 import time
 #making the slow motion of the word
